@@ -1,1 +1,1 @@
-# MScThesis_msymptoms
+# Master thesis: replication material
