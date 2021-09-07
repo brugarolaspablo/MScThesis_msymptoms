@@ -1,1 +1,1 @@
-# Master thesis: replication material
+# Master thesis: replication materials
